@@ -9,4 +9,4 @@ app.use("/graphql", expressGraphQL({
     graphiql: true,
 }))
 
-app.listen(3000,()=>console.log("app start"))
+app.listen(7777,()=>console.log("app start"))

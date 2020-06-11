@@ -1,0 +1,8 @@
+{
+    "users":[
+        {"name":"atigh", "id":1,"age":30},
+        {"name":"Mouvid", "id":2,"age":30},
+        {"name":"Chavi", "id":3,"age":30},
+        {"name":"Ahmed", "id":4,"age":30}
+    ]
+}
